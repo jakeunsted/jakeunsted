@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jake. I am a software developer working at Akero. I studied Computer Science at the University of Portsmouth graduation with a First Class.</p>
+<p align="left">My name is Jake. I am a software developer. I studied Computer Science at the University of Portsmouth graduation with a First Class.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Vuetify, Nuxt and Sequelize<br>🎯 Goals: Become a Vue master<br>🎲 Fun fact: I once ran an iRacing eSports team and played sunday league as a Goalkeeper</p>
+<p align="left">📚 I'm currently learning Typescript, GoLang and refreshing myself with python<br>🎯 Goals: Become a Vue master<br>🎲 Fun fact: I once ran an iRacing eSports team and played sunday league as a Goalkeeper</p>
 
 ###
 
