@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Typescript, GoLang and refreshing myself with python<br>🎯 Goals: Become a Vue master<br>🎲 Fun fact: I once ran an iRacing eSports team and played sunday league as a Goalkeeper</p>
+<p align="left">📚 I'm currently learning Typescript, GoLang and refreshing myself with python<br>🎯 Goals: Futher my skills in Full Stack development<br>🎲 Fun fact: I once ran an iRacing eSports team and played sunday league as a Goalkeeper</p>
 
 ###
 
